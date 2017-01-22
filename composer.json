@@ -1,0 +1,20 @@
+
+    {
+    "name": "yurul/compo",
+    "description": "How to deal with composer",
+    "authors": [
+        {
+            "name": "Yurasik"
+        }
+    ],
+    "require": {
+        
+    },
+     "autoload": {
+       
+        "psr-0": {
+        "myns\\": "src/"
+        
+    }
+    }
+}
