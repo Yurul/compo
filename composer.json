@@ -12,8 +12,8 @@
     },
      "autoload": {
        
-        "psr-0": {
-        "myns\\":"vendor/yurul/compo/src/"
+        "psr-4": {
+        "myns\\": "src/myns"
         
     }
     }
